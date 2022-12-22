@@ -1,16 +1,29 @@
-### Hi there 👋
+![Bannergit-02](https://user-images.githubusercontent.com/57279013/209214266-e333b91e-693b-4e58-b5c5-3916786926f0.png)
 
-<!--
-**Jalch0/Jalch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Frontend Developer from Venezuela
+### 🔭 I’m currently working with
 
-Here are some ideas to get you started:
+- React
+- Redux
+- Express
+- NodeJS
+- PHP
+- MySQL
+- Tailwind 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Software development
+
+I enjoy making a web product, from the initial idea and brainstorming, wireframes, mockups and layouts, to the final product.
+
+In addition, I have management of organization and design technologies such as Notion and some Adobe programs such as Illustrator and Photoshop.
+
+🌱 In relation to the above, I am currently learning
+
+- Figma
+- Adobe XD
+
+### 📫 You can find me
+- [Twitter](https://twitter.com/jalch0) 🐦
+- [Instagram](https://instagram.com/javierlabradorc) 📸
+- [LinkedIn](https://www.linkedin.com/in/javierlabradorc/) 💼
+- [Website](https://jalch0.github.io/my-portfolio-website-v1/index.html) 🌍
