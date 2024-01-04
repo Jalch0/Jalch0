@@ -4,12 +4,14 @@
 ### 🔭 I’m currently working with
 
 - React
-- Redux
+- NextJS
+- TypeScript
+- Tailwind CSS
 - Express
 - NodeJS
-- PHP
-- MySQL
-- Tailwind 
+- Prisma
+- MongoDB
+- MySQL 
 
 ### ⚙️ Software development
 
