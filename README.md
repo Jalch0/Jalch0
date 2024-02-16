@@ -11,6 +11,7 @@
 - NodeJS
 - Prisma
 - MongoDB
+- PostgreSQL
 - MySQL 
 
 ### ⚙️ Software development
