@@ -12,7 +12,9 @@
 - Prisma
 - MongoDB
 - PostgreSQL
-- MySQL 
+- MySQL
+- Flutter
+- Wordpress
 
 ### ⚙️ Software development
 
